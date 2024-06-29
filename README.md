@@ -20,3 +20,20 @@
 ### 18.git merge 分支名
 ### 19.git branch -d 分支名
 ### 20.git branch -D 分支名
+### 21.git remote
+### 22.git remote -v
+### 23.git remote rm 远程仓库名
+### 24.git remote add 远程仓库名 远程仓库地址
+### 25.git remote set-url 远程仓库名 远程仓库地址
+### 26.git stash
+### 27.git stash pop
+### 28.git stash list
+### 29.git stash apply stash@{0}
+### 30.git stash drop stash@{0}
+### 31.git stash clear
+### 32.git tag
+### 33.git tag 标签名
+### 34.git tag -a 标签名 -m "标签信息"
+### 35.git tag -d 标签名
+### 36.git push origin 标签名
+
